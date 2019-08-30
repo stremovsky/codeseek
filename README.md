@@ -6,9 +6,9 @@ It is a place where you can easily find relevant articles on [stackoverflow.com]
 
 This service is using Google Custom Search engine.
 
-Project' sites.txt file contains a curated list of developer resources.
+Project sites.txt file contains a curated list of developer resources.
 
-Send your changes here or in our website.
+Push your changes here or in my blog at: [http://cloudinvent.com/blog/codeseek-com-search-engine-for-developers/](http://cloudinvent.com/blog/codeseek-com-search-engine-for-developers/)
 
 
 #### Adding new site to sites.txt

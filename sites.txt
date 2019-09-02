@@ -1,3 +1,4 @@
+benfrederickson.com
 bitbucket.org
 c-sharpcorner.com
 cloudinvent.com
@@ -22,6 +23,7 @@ pragmacoders.com
 programcreek.com
 python.org
 realpython.com
+slack.engineering
 stackoverflow.com
 towardsdatascience.com
 tutorialspoint.com

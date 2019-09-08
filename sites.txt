@@ -3,11 +3,16 @@ bitbucket.org
 c-sharpcorner.com
 cloudinvent.com
 codebetter.com
+codex.wordpress.org
 cplusplus.com
 csharp.today
+css-tricks.com
 dev.to
+developer.wordpress.org
 developers.google.com
+dzone.com
 forums.asp.net
+freecodecamp.org
 github.com
 github.io
 gitlab.com
@@ -23,6 +28,7 @@ pragmacoders.com
 programcreek.com
 python.org
 realpython.com
+serverfault.com
 slack.engineering
 stackoverflow.com
 towardsdatascience.com

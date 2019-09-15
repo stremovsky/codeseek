@@ -1,6 +1,8 @@
+aws.amazon.com/blogs
 benfrederickson.com
 bitbucket.org
 c-sharpcorner.com
+cloud.google.com
 cloudinvent.com
 codebetter.com
 codex.wordpress.org
@@ -10,6 +12,8 @@ css-tricks.com
 dev.to
 developer.wordpress.org
 developers.google.com
+docs.docker.com
+docs.gradle.org
 dzone.com
 forums.asp.net
 freecodecamp.org
@@ -22,9 +26,12 @@ guru99.com
 hackernoon.com
 helpmanual.io
 javascript.info
+jetbrains.com
 letsencrypt.org
 medium.com
+oreilly.com/ideas
 pragmacoders.com
+proandroiddev.com
 programcreek.com
 python.org
 realpython.com

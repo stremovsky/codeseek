@@ -2,13 +2,15 @@
 
 Website [codeseek.com](http://codeseek.com/) is a custom search engine for developers.
 
+![Codeseek project](https://codeseek.com/codeseek.png "Codeseek logo")
+
 It is a place where you can easily find relevant articles on [stackoverflow.com](https://stackoverflow.com/)
 
 This service is using Google Custom Search engine.
 
 Project sites.txt file contains a curated list of developer resources.
 
-Push your changes here or in my blog at: [http://cloudinvent.com/blog/codeseek-com-search-engine-for-developers/](http://cloudinvent.com/blog/codeseek-com-search-engine-for-developers/)
+Push your changes here or in my blog at: [Codeseek Support Page](http://cloudinvent.com/codeseek-com-support-page/).
 
 
 #### Adding new site to sites.txt

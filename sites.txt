@@ -1,3 +1,4 @@
+askubuntu.com
 aws.amazon.com/blogs
 benfrederickson.com
 bitbucket.org
@@ -15,6 +16,8 @@ developers.google.com
 docs.docker.com
 docs.gradle.org
 dzone.com
+fast.ai
+firebase.google.com
 forums.asp.net
 freecodecamp.org
 github.com
@@ -24,12 +27,15 @@ golang.org
 golangbot.com
 guru99.com
 hackernoon.com
+help.ubuntu.com
 helpmanual.io
 javascript.info
 jetbrains.com
 letsencrypt.org
+linux.com
 medium.com
 oreilly.com/ideas
+pciguru.wordpress.com
 php.net
 pragmacoders.com
 proandroiddev.com
@@ -38,8 +44,9 @@ python.org
 realpython.com
 serverfault.com
 slack.engineering
+stackexchange.com
 stackoverflow.com
+superuser.com
 towardsdatascience.com
 tutorialspoint.com
 w3schools.com
-www.fast.ai

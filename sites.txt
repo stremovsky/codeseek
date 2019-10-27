@@ -1,11 +1,15 @@
+alexedwards.net
+andrewpwheeler.wordpress.com
 askubuntu.com
 aws.amazon.com/blogs
 benfrederickson.com
 bitbucket.org
+bubblecode.net
 c-sharpcorner.com
 cloud.google.com
 cloudinvent.com
 codebetter.com
+codecapsule.com
 codex.wordpress.org
 cplusplus.com
 csharp.today
@@ -13,6 +17,7 @@ css-tricks.com
 dev.to
 developer.wordpress.org
 developers.google.com
+digitalocean.com/community/tutorials
 docs.docker.com
 docs.gradle.org
 dzone.com
@@ -26,9 +31,11 @@ gitlab.com
 golang.org
 golangbot.com
 guru99.com
+habr.com
 hackernoon.com
 help.ubuntu.com
 helpmanual.io
+itsfoss.com
 javascript.info
 jetbrains.com
 letsencrypt.org
@@ -49,4 +56,5 @@ stackoverflow.com
 superuser.com
 towardsdatascience.com
 tutorialspoint.com
+vitux.com
 w3schools.com

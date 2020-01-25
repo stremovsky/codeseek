@@ -13,6 +13,7 @@ cloudinvent.com
 codebetter.com
 codecapsule.com
 codex.wordpress.org
+codingnetworker.com
 cplusplus.com
 csharp.today
 css-tricks.com
@@ -25,12 +26,14 @@ digitalocean.com/community/tutorials
 docs.docker.com
 docs.gradle.org
 docs.nginx.com
+docs.python.org
 dzone.com
 evertpot.com
 fast.ai
 firebase.google.com
 forums.asp.net
 freecodecamp.org
+geeksforgeeks.org
 github.com
 github.io
 gitlab.com
@@ -61,11 +64,14 @@ postgresqltutorial.com
 pragmacoders.com
 proandroiddev.com
 programcreek.com
+programiz.com
 python.org
 realpython.com
 redislabs.com
+science-emergence.com
 serverfault.com
 slack.engineering
+stackabuse.com
 stackexchange.com
 stackoverflow.com
 superuser.com

@@ -3,6 +3,7 @@ alexedwards.net
 analyticsvidhya.com
 andrewpwheeler.wordpress.com
 askubuntu.com
+aws-amplify.github.io
 aws.amazon.com/blogs
 benfrederickson.com
 bitbucket.org
@@ -10,6 +11,7 @@ bubblecode.net
 c-sharpcorner.com
 cloud.google.com
 cloudinvent.com
+code.tutsplus.com
 codebetter.com
 codecapsule.com
 codex.wordpress.org
@@ -23,6 +25,7 @@ developer.wordpress.org
 developers.google.com
 devhints.io
 digitalocean.com/community/tutorials
+docs.aws.amazon.com
 docs.docker.com
 docs.gradle.org
 docs.nginx.com
@@ -46,6 +49,7 @@ golangprograms.com
 guru99.com
 habr.com
 hackernoon.com
+hashnode.com
 help.ubuntu.com
 helpmanual.io
 itsfoss.com
@@ -57,8 +61,10 @@ linux.com
 medium.com
 mongodb.com
 mysqltutorial.org
+nginx.com/blog
 oreilly.com/ideas
 pciguru.wordpress.com
+percona.com/blog
 php.net
 postgresqltutorial.com
 pragmacoders.com
@@ -66,6 +72,7 @@ proandroiddev.com
 programcreek.com
 programiz.com
 python.org
+read.acloud.guru
 realpython.com
 redislabs.com
 science-emergence.com

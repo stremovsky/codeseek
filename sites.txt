@@ -21,6 +21,7 @@ csharp.today
 css-tricks.com
 dev.to
 developer.android.com
+developer.microsoft.com
 developer.wordpress.org
 developers.google.com
 devhints.io
@@ -28,6 +29,7 @@ digitalocean.com/community/tutorials
 docs.aws.amazon.com
 docs.docker.com
 docs.gradle.org
+docs.microsoft.com
 docs.nginx.com
 docs.python.org
 dzone.com
@@ -82,6 +84,7 @@ stackabuse.com
 stackexchange.com
 stackoverflow.com
 superuser.com
+tecmint.com
 thachmai.info
 towardsdatascience.com
 tutorialedge.net

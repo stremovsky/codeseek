@@ -7,6 +7,7 @@ aws-amplify.github.io
 aws.amazon.com/blogs
 benfrederickson.com
 bitbucket.org
+blogs.aaddevsup.xyz
 bubblecode.net
 c-sharpcorner.com
 cloud.google.com
@@ -79,6 +80,7 @@ realpython.com
 redislabs.com
 science-emergence.com
 serverfault.com
+shawntabrizi.com
 slack.engineering
 stackabuse.com
 stackexchange.com
@@ -86,6 +88,7 @@ stackoverflow.com
 superuser.com
 tecmint.com
 thachmai.info
+thegeekstuff.com
 towardsdatascience.com
 tutorialedge.net
 tutorialspoint.com

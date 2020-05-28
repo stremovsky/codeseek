@@ -2,7 +2,10 @@ afternerd.com
 alexedwards.net
 analyticsvidhya.com
 andrewpwheeler.wordpress.com
+anupams.net
+arangodb.com
 askubuntu.com
+atlassian.com
 aws-amplify.github.io
 aws.amazon.com/blogs
 benfrederickson.com
@@ -37,6 +40,7 @@ dzone.com
 evertpot.com
 fast.ai
 firebase.google.com
+flaviocopes.com
 forums.asp.net
 freecodecamp.org
 geeksforgeeks.org
@@ -55,6 +59,7 @@ hackernoon.com
 hashnode.com
 help.ubuntu.com
 helpmanual.io
+itnext.io
 itsfoss.com
 javascript.info
 jetbrains.com
@@ -80,6 +85,7 @@ realpython.com
 redislabs.com
 science-emergence.com
 serverfault.com
+sharepointpals.com
 shawntabrizi.com
 slack.engineering
 stackabuse.com
@@ -94,3 +100,4 @@ tutorialedge.net
 tutorialspoint.com
 vitux.com
 w3schools.com
+ypcode.wordpress.com

@@ -1,5 +1,6 @@
 afternerd.com
 alexedwards.net
+anaconda.com
 analyticsvidhya.com
 andrewpwheeler.wordpress.com
 anupams.net
@@ -11,6 +12,7 @@ aws.amazon.com/blogs
 benfrederickson.com
 bitbucket.org
 blogs.aaddevsup.xyz
+boto3.amazonaws.com
 bubblecode.net
 c-sharpcorner.com
 cloud.google.com
@@ -29,6 +31,7 @@ developer.microsoft.com
 developer.wordpress.org
 developers.google.com
 devhints.io
+devqa.io
 digitalocean.com/community/tutorials
 docs.aws.amazon.com
 docs.docker.com
@@ -36,6 +39,7 @@ docs.gradle.org
 docs.microsoft.com
 docs.nginx.com
 docs.python.org
+docs.ukcloud.com
 dzone.com
 evertpot.com
 fast.ai
@@ -47,6 +51,7 @@ geeksforgeeks.org
 github.com
 github.io
 gitlab.com
+gitmemory.com
 gobyexample.com
 godoc.org
 goinbigdata.com

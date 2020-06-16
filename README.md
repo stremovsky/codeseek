@@ -1,6 +1,6 @@
 ## Database of sites for codeseek.com
 
-This project hosts a curated list of developer friendly blogs and q&a sites used by [codeseek.com](http://codeseek.com/) - is a custom search engine for developers.
+This project hosts a curated list of developer friendly resources used by [codeseek.com](http://codeseek.com/)
 
 ![Codeseek project](https://codeseek.com/codeseek.png "Codeseek logo")
 

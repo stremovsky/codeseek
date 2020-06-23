@@ -92,12 +92,14 @@ science-emergence.com
 serverfault.com
 sharepointpals.com
 shawntabrizi.com
+sitepoint.com
 slack.engineering
 stackabuse.com
 stackexchange.com
 stackoverflow.com
 superuser.com
 tecmint.com
+tempesta-tech.com
 thachmai.info
 thegeekstuff.com
 towardsdatascience.com
@@ -105,4 +107,5 @@ tutorialedge.net
 tutorialspoint.com
 vitux.com
 w3schools.com
+wptheming.com
 ypcode.wordpress.com

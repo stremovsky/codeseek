@@ -14,6 +14,7 @@ bitbucket.org
 blogs.aaddevsup.xyz
 boto3.amazonaws.com
 bubblecode.net
+buddypress.org
 c-sharpcorner.com
 cloud.google.com
 cloudinvent.com
@@ -69,6 +70,8 @@ itsfoss.com
 javascript.info
 jetbrains.com
 kb.objectrocket.com
+learn.jquery.com
+learnjavaonline.org
 letsencrypt.org
 linux.com
 medium.com
@@ -94,6 +97,7 @@ sharepointpals.com
 shawntabrizi.com
 sitepoint.com
 slack.engineering
+sqlite.org
 stackabuse.com
 stackexchange.com
 stackoverflow.com
